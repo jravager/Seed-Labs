@@ -1,2 +1,2 @@
 # Shellshock-Attack
-Replicating shellshocked vulnerability and attack.
+Replicating shellshocked attack with a vulnerable bash.
